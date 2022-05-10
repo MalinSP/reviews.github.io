@@ -14,4 +14,4 @@ Completed project available [Reviews](https://malinsp.github.io/reviews.github.i
 
 #### Screenshots
 
-![Reviews](/)
+![Reviews](/project-3.png)
